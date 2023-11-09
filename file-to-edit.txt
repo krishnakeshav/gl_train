@@ -1,6 +1,13 @@
-write your name below in bullets. This name must eventually reflect in a main branch of the original repository.
+write your name below in bullets. This name must eventually be reflected in a main branch of the original repository.
 
 1. Krishna
 2.Training is going smooth
 3.Testing
 4. Additonal chnages
+2. Karen
+3. Santa Claus
+2.
+1. Krishn
+2. Plex Sula
+3.Romaric
+
