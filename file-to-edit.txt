@@ -1,8 +1,7 @@
-write your name below in bullets. This name must eventually reflect in a main branch of the original repository.
+write your name below in bullets. This name must eventually be reflected in a main branch of the original repository.
+
 
 1. Krishn
 2. Plex Sula
-3.
-2.
 3.Romaric
 
